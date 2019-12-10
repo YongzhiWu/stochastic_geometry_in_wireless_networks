@@ -1,4 +1,4 @@
-%% Simulate a Poisson point process of density \lambda on A = [-L, L]^2
+%% Simulate a Poisson point process of density \lambda on A = [-L/2, L/2]^2
 
 % parameters
 lambda = 1; % Density of PPP
