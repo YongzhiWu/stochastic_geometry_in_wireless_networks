@@ -50,7 +50,7 @@ axis square;
 %% Simulation a Poisson point process at K-dimension space
 
 % parameters
-K = 2;
+K = 3;
 R = 2.5;
 
 center = zeros(1, K); % center
