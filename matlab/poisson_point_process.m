@@ -1,4 +1,4 @@
-%% Simulate a Poisson point process of density \lambda on A = [-L, L]^2
+%% Simulate a Poisson point process of density \lambda on A = [-L/2, L/2]^2
 
 % parameters
 lambda = 1; % Density of PPP
@@ -10,7 +10,7 @@ Sa = L^2; % Area of A
 N = poissrnd(lambda * Sa);
 
 % points is uniformly distributed on A
-Points = unifrnd(-L, L, N, 2); % a N*2 matrix
+Points = unifrnd(-L/2, L/2, N, 2); % a N*2 matrix
 
 % Plot points
 scatter(Points(:, 1), Points(:, 2));
