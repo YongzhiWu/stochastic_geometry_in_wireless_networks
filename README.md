@@ -6,4 +6,4 @@ This repository will continue updating.
 
 Update: My paper "Interference and Coverage Analysis for Terahertz Networks with Indoor Blockage Effects and Line-of-Sight Access Point Association" accepted to IEEE Transcations on Wireless Communications.
 
-* Y. Wu, J. Kokkoniemi, C. Han, and M. Juntti, “Interference and Coverage Analysis for Terahertz Networks with Indoor Blockage Effects and Line-of-Sight Access Point Association”, to appear in **IEEE Transactions on Wireless Communications**, 2020.
+* Y. Wu, J. Kokkoniemi, C. Han, and M. Juntti, “Interference and Coverage Analysis for Terahertz Networks with Indoor Blockage Effects and Line-of-Sight Access Point Association”, **IEEE Transactions on Wireless Communications**, vol. 20, no. 3, pp. 1472-1486, Mar. 2021. [[paper](https://ieeexplore.ieee.org/document/9247469)]
